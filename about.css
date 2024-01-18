@@ -1,0 +1,62 @@
+.back{
+    background-image: url(Solid-Black-Website-Background.jpg);
+    height: 100vh;
+    background-size: cover;
+    
+}
+.heading h1{
+    color: gray;
+    position: relative;
+    left:800px;
+    font-size: 65px;
+}
+.intro h1{
+    color: violet;
+    position: relative;
+    left:50px;
+    font-size: 45px;
+}
+.main_body p{
+    width: 1200px;
+    color: white;
+    position: relative;
+    left: 50px;
+    font-size: 25px;
+}
+img{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 1400px;
+    bottom: 200px;
+}
+.found h1{
+    color: violet;
+    position: relative;
+    left:50px;
+    font-size: 45px;
+    bottom: 430px;
+}
+.year p{
+    width: 1200px;
+    color: white;
+    position: relative;
+    left: 50px;
+    font-size: 25px;
+    bottom:450px;
+}
+.special h1{
+    color: violet;
+    position: relative;
+    left:50px;
+    font-size: 45px;
+    bottom: 450px;
+}
+.spe p{
+    width: 1200px;
+    color: white;
+    position: relative;
+    left: 50px;
+    font-size: 25px;
+    bottom:450px;
+}

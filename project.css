@@ -1,0 +1,97 @@
+body{
+    background-image: url(Solid-Black-Website-Background.jpg);
+    height: 100vh;
+    background-size: cover;
+    
+}
+.name{
+    
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: 10px;
+    top:20px;
+    color: red;
+    font-size: 20px;
+    
+
+}
+.about{
+    
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: 1500px;
+    bottom: 109px;
+    color: WHITE;
+    font-size: larger;
+    
+    }
+.about a{
+    text-decoration: none;
+    color: white;
+}    
+.code{
+    
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: 1600px;
+    bottom: 230px;
+    color: white;
+    font-size: larger;
+    }
+.code a{
+        text-decoration: none;
+        color: white;}    
+.ques{
+    
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: 1700px;
+    bottom: 352px;
+    color: white;
+    font-size: larger;
+    }
+.ques a{
+        text-decoration: none;
+        color: white;}    
+.Contact{
+    
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: 1800px;
+    bottom: 476px;
+    color: white;
+    font-size: larger;
+    }
+.Contact a{
+        text-decoration: none;
+        color: white;  }  
+img{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 1400px;
+    bottom: 600px;
+}
+.line{
+    height: 200px;
+    width: 600px;
+    position: relative;
+    bottom: 450px;
+    left:100px;
+    background-size: cover;
+}
+.line p{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+.line p spam{
+    color: green;
+    font-size: 60px;
+    text-align: center;
+}
